@@ -42,7 +42,8 @@ This repo showcases the process of installing Tor and configuring it as a proxy 
     systemctl stop tor
     systemctl disable tor
 
-![image](https://github.com/user-attachments/assets/896613f5-903d-45af-9acb-edc1df8fe188)
+![image](https://github.com/user-attachments/assets/2bb179e9-404b-4b47-88a0-af0d41ce7bd7)
+
 
 ## Now we test the changes
 
