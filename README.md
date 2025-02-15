@@ -24,7 +24,7 @@ This repo showcases the process of installing Tor and configuring it as a proxy 
 ## Configure the /etc/tor/torrc config file, and add these lines:
 
     UseBridges 1
-    ClientTransportPlugin obfs4 exec /usr/bin/obf4proxy
+    ClientTransportPlugin obfs4 exec /usr/bin/obfs4proxy
 
 ## Navigate to bridges.torproject.org, and get yourself some juciy bridges
 
@@ -49,6 +49,9 @@ This repo showcases the process of installing Tor and configuring it as a proxy 
 ## enter tor in the terminal and see the magic happens
 
     tor
+    
+![image](https://github.com/user-attachments/assets/7d47ac25-0cbb-4d27-bafb-ee778ebcd47a)
+
 
 ### **Proxychains4**:
 
@@ -56,6 +59,18 @@ This repo showcases the process of installing Tor and configuring it as a proxy 
     
 ![image](https://github.com/user-attachments/assets/46057dbf-6670-4b3f-bd9a-88b32bb098f8)
 
+-I wrote a python3 script to get my public IP
+
+    proxychains -q /home/caretaker/Desktop/pub.py
+
+![image](https://github.com/user-attachments/assets/f617d0e0-1d4f-436a-8ec7-057f57927c04)
+
+**IT WORKS**
 
 ### **FoxyProxy**:
+
+![image](https://github.com/user-attachments/assets/c47e2e8e-3ce1-429d-928a-943b81392840)
+![image](https://github.com/user-attachments/assets/0a39d7a8-73fc-44d7-90a4-c0a05165c464)
+
+**IT WORKS**
 
