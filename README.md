@@ -1,11 +1,11 @@
 # Tor-as-Proxy
 This repo showcases the process of installing Tor and configuring it as a proxy for your linux machine
 
--We will use obfs4proxy as our Pluggable Transports (PT) which will help us bypass censorship against our beloved Tor
+- We will use obfs4proxy as our Pluggable Transports (PT) which will help us bypass censorship against our beloved Tor
 
--you can learn more about Pluggable Transports from here https://2019.www.torproject.org/docs/pluggable-transports#user
+- you can learn more about Pluggable Transports from here https://2019.www.torproject.org/docs/pluggable-transports#user
 
--you cal learn more about obfs4proxy from here https://github.com/Yawning/obfs4/blob/master/doc/obfs4-spec.txt
+- you can learn more about obfs4proxy from here https://github.com/Yawning/obfs4/blob/master/doc/obfs4-spec.txt
 
 ## Update the machine
 
